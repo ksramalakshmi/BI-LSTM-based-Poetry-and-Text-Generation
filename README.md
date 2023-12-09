@@ -2,7 +2,7 @@
 
 NLP techniques using the RNN variant, LSTM (Long Short-term Memory) for text and poetry generation using the right-to-left and left-to-right bidirectional techniques.
 
-# Future Improvisation
+# Improvisation Under Progress
 Implementation of the same use case using SOTA transformers (work under progress)
 
 # Preprocessing Techniques
